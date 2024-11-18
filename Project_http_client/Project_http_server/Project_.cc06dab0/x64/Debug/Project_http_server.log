@@ -1,0 +1,7 @@
+﻿  server.c
+D:\Vs_Project\Project_http_client\Project_http_server\server.c(116,5): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Vs_Project\Project_http_client\Project_http_server\server.c(118,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Vs_Project\Project_http_client\Project_http_server\server.c(120,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Vs_Project\Project_http_client\Project_http_server\server.c(145,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Vs_Project\Project_http_client\Project_http_server\server.c(74,1): warning C4715: “ListenToClient”: 不是所有的控件路径都返回值
+  Project_http_server.vcxproj -> D:\Vs_Project\Project_http_client\Project_http_server\x64\Debug\Project_http_server.exe
